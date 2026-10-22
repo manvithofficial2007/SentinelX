@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# Jupyter runtime files
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Generated report files (created when notebook runs)
+sentinelx_report.txt
+sentinelx_report.json
+synthetic_evidence.txt
+
+# Temp test files
+_sentinelx_*.txt
+_run_sentinelx_tests.py
+RUN_NOTEBOOK.bat
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
